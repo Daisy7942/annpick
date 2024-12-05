@@ -206,9 +206,9 @@ backend/                                  # 백엔드 관련 파일들
 </details>
 
 ## 시연 영상
-[![Video 1](https://github.com/user-attachments/assets/c9aa5a1b-cf8d-4f03-91d3-99f299d601ed)](https://github.com/user-attachments/assets/c9aa5a1b-cf8d-4f03-91d3-99f299d601ed)
+![Video 1](https://github.com/user-attachments/assets/c9aa5a1b-cf8d-4f03-91d3-99f299d601ed)
 <br>
-[![Video 2](https://github.com/user-attachments/assets/6eecd7c6-3ab0-40c9-b2df-f17a171262bf)](https://github.com/user-attachments/assets/6eecd7c6-3ab0-40c9-b2df-f17a171262bf)
+![Video 2](https://github.com/user-attachments/assets/6eecd7c6-3ab0-40c9-b2df-f17a171262bf)
 <br>
 
 ## 프로젝트 환경
